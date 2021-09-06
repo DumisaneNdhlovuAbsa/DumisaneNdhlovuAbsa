@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DumisaneNdhlovuAbsa
-- 👀 I’m interested ina all thing Integrations, automation, and CI/CD.
+- 👀 I’m interested in all thing Integrations, Automation, Jitterbit, Data Migrations, and CI/CD.
 - 🌱 I’m currently learning Python and Jitterbit
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me ...
+- 📫 How to reach me AB011ZU@absa.africa
 
 <!---
 DumisaneNdhlovuAbsa/DumisaneNdhlovuAbsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
